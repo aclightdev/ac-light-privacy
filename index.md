@@ -1,3 +1,6 @@
+---
+---
+
 # Privacy Policy for AC Light
 
 **Last updated:** July 2, 2026
